@@ -46,10 +46,10 @@ Meet the team behind this project:
 ## Project Details
 
 - **Project Report:** [Report.pdf](drivelink)
-- **Published Paper:** [Paper.pdf](drivelink)
+- **Published Paper:** [Paper.pdf](https://drive.google.com/file/d/1ZWxJBw71bv73aLLWdAnXYIaLq4fJbiWX/view?usp=sharing)
 - **Dataset:** [Dataset](https://drive.google.com/drive/folders/1M2SdYYNskVWP5gPj8kpDTnFuvKpk_pQc?usp=sharing)
 - **Gesture Recognition Documentation:** [MediaPipe](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer)
-- **Model Training File:** `model_training.ipynb` (located in the root folder)
+- **Model Training File:** `'/Code For Training the Model/Model_Trainer_HandSignLanguageRecognition.ipynb'`
 
 ## Screenshots
 
@@ -63,5 +63,9 @@ Here are some snapshots of our application:
 
 For any questions or support, feel free to reach out:
 
-- **Email:** email@example.com
-- **LinkedIn:** [Name](linkedin_profile_link)
+- **Team Members**
+  - **Sameer Shrikhande**
+  - **Hardik Pingale**
+  - **Mohammad Asif**
+  - **Abhishek Joshi**
+  
