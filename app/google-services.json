@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530121249972",
+    "project_id": "hand-sign-recognition",
+    "storage_bucket": "hand-sign-recognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530121249972:android:5db62650404e9157adb3e1",
+        "android_client_info": {
+          "package_name": "com.google.mediapipe.examples.gesturerecognizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-Ugb6iefBUHdaVsNnwJDjui1DZEXGMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
