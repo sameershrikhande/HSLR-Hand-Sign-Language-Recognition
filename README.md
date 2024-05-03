@@ -47,8 +47,8 @@ Meet the team behind this project:
 
 - **Project Report:** [Report.pdf](drivelink)
 - **Published Paper:** [Paper.pdf](drivelink)
-- **Dataset:** [Sign_Dataset](drivelink)
-- **Gesture Recognition Documentation:** [MediaPipe](link_to_documentation)
+- **Dataset:** [Dataset](https://drive.google.com/drive/folders/1M2SdYYNskVWP5gPj8kpDTnFuvKpk_pQc?usp=sharing)
+- **Gesture Recognition Documentation:** [MediaPipe](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer)
 - **Model Training File:** `model_training.ipynb` (located in the root folder)
 
 ## Screenshots
