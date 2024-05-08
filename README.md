@@ -2,8 +2,6 @@
 
 Welcome to our Hand Sign Language Recognition project repository! This project focuses on real-time sign language recognition using machine learning and mobile technologies.
 
-![Banner](./path_to_banner_image)
-
 ## Overview
 
 Our project leverages machine learning and mobile development to create a real-time sign language recognition application. By combining image preprocessing, model training, and mobile integration, we enable communication through sign language for the deaf and mute community with us.
@@ -51,13 +49,6 @@ Meet the team behind this project:
 - **Gesture Recognition Documentation:** [MediaPipe](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer)
 - **Model Training File:** `'/Code For Training the Model/Model_Trainer_HandSignLanguageRecognition.ipynb'`
 
-## Screenshots
-
-Here are some snapshots of our application:
-
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
-![Screenshot 3](./screenshots/screenshot3.png)
 
 ## Support
 
